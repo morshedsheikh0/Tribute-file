@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+
+#main{
+	margin:30px auto;
+	padding: 10px;
+	text-align:center;
+	background: #eee;
+	line-height: 25px;
+	font-size: 16px;
+	font-family:sans-serif;
+	border:0px solid;
+	border-radius: 10px;
+}
+
+h1#title {
+    padding: 24px;
+    font-size: 34px;
+}
+div#img-div {
+    width: 98%;
+    padding: 30px 10px;
+    background: white;
+    margin:20px auto;
+
+}
+#image{
+	width:85%;
+
+}
+
+#tribute-info{
+	width:600px;
+	margin:auto;
+	text-align:left;
+	padding:40px 0px;
+}
